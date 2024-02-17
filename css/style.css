@@ -101,7 +101,7 @@ body {
   font-size: 1.2em;
   padding: 0 5px;
   color: tomato;
-  border: 1em solid tomato;
+  border: 10px solid tomato;
   background-color: var(--golden);
 }
 
